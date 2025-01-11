@@ -60,6 +60,7 @@ body{
 
 .editor-container {
   display: flex;
+  height: 100vh;
   .sidebar {
     width: 250px;
     padding: 1.5rem;
